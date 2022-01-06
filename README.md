@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=daweilv&color=brightgreen)
+### Hi there 👋
 
 <!--
 **daweilv/daweilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Hi, I'm David.Lv, a developer from Shanghai, China.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daweilv&layout=compact)](https://github.com/daweilv) -->
 
 ## ⚡ Github Stats:
-
+![](https://komarev.com/ghpvc/?username=daweilv&color=brightgreen)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daweilv&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daweilv&theme=vue)
