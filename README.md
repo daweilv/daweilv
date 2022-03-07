@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm David<img width="1" height="1"  src="https://komarev.com/ghpvc/?username=daweilv&color=brightgreen"/> Lv, a developer from Shanghai, China.
+I'm David<img width="2" height="2" src="https://komarev.com/ghpvc/?username=daweilv&color=brightgreen"/>Lv, a developer from Shanghai, China.
 
 - 🌱 Here's My [Blog](https://lvdawei.com)
 - 💬 [About Me](https://lvdawei.com/about)
