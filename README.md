@@ -21,4 +21,3 @@ I'm David Lv, a developer from Shanghai, China.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=daweilv&show_icons=true&hide_title=true&hide_border=true)](https://github.com/daweilv)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/daweilv/daweilv.visitors)
